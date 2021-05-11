@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465322157710",
+    "project_id": "the-punch-22",
+    "storage_bucket": "the-punch-22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465322157710:android:dedbab16ad1dcd55178bdf",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.s1082925.thepunchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465322157710-o1saoq8kef6ajvpacif60j5tqqb6qfe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSu5Yr4A5MS4neh_cwvKTeKSXRjLKB4z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465322157710-o1saoq8kef6ajvpacif60j5tqqb6qfe1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

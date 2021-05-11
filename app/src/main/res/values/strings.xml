@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ThePunchApp</string>
+    <string name="SignUpNow"><u>Sign up now</u></string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="Login"><u>Login</u></string>
+    <string name="title_activity_create_or_join">CreateOrJoin</string>
+    <string name="business_owner">Are you a business owner ?</string>
+    <string name="employee">Are you part of an existing team ?</string>
+    <string name="join_team">Join an existing team</string>
+    <string name="warning">Please insert the code given by your team leader.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="warning2">This code will only appear here, please remember it.</string>
+</resources>
